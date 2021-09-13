@@ -1,4 +1,4 @@
-Hi, I’m Luki an electronics ingenieur who loves to program.
+Hi, I’m Luki an electrical engineer who loves to program.
 
 
 
