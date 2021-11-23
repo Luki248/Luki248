@@ -1,5 +1,7 @@
 Hi, I’m Luki an electrical engineer who loves to program.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luki248&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luki248&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 ![Lukas's Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Luki248/notebook)
 
